@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+header,table{
+ 
+    width: 100%;
+}
+footer{
+    padding: 10px;
+    text-align: center;
+    color: blue;
+}
+h2{
+    text-align: center;
+}
+p{
+    color: blue;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
